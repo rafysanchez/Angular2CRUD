@@ -1,4 +1,4 @@
-﻿using ManageEmployees.Data;
+using ManageEmployees.Data;
 using ManageEmployees.Data.Abstract;
 using ManageEmployees.Data.Repositories;
 using Microsoft.AspNetCore.Builder;
@@ -28,7 +28,7 @@ namespace ManageEmployees
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            var connection = @"Server=(localdb)\mssqllocaldb;Database=ManageEmployees;Trusted_Connection=True;";
+            var connection = @"Server=(LocalDb)\MSSQLLocalDB;Database=ManageEmployees;Trusted_Connection=True;";
             services.AddDbContext<ManageEmployeesContext>(options => options.UseSqlServer(connection));
 
             // Repositories
