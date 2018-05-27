@@ -1,0 +1,10 @@
+C:\Users\Familia\Documents\GitHub\Angular2CRUD\NetCoreAPI\src\ManageEmployees\bin\Debug\netcoreapp1.1\ManageEmployees.deps.json
+C:\Users\Familia\Documents\GitHub\Angular2CRUD\NetCoreAPI\src\ManageEmployees\bin\Debug\netcoreapp1.1\ManageEmployees.runtimeconfig.json
+C:\Users\Familia\Documents\GitHub\Angular2CRUD\NetCoreAPI\src\ManageEmployees\bin\Debug\netcoreapp1.1\ManageEmployees.runtimeconfig.dev.json
+C:\Users\Familia\Documents\GitHub\Angular2CRUD\NetCoreAPI\src\ManageEmployees\bin\Debug\netcoreapp1.1\ManageEmployees.dll
+C:\Users\Familia\Documents\GitHub\Angular2CRUD\NetCoreAPI\src\ManageEmployees\bin\Debug\netcoreapp1.1\ManageEmployees.pdb
+C:\Users\Familia\Documents\GitHub\Angular2CRUD\NetCoreAPI\src\ManageEmployees\obj\Debug\netcoreapp1.1\ManageEmployees.csprojResolveAssemblyReference.cache
+C:\Users\Familia\Documents\GitHub\Angular2CRUD\NetCoreAPI\src\ManageEmployees\obj\Debug\netcoreapp1.1\ManageEmployees.csproj.CoreCompileInputs.cache
+C:\Users\Familia\Documents\GitHub\Angular2CRUD\NetCoreAPI\src\ManageEmployees\obj\Debug\netcoreapp1.1\ManageEmployees.AssemblyInfo.cs
+C:\Users\Familia\Documents\GitHub\Angular2CRUD\NetCoreAPI\src\ManageEmployees\obj\Debug\netcoreapp1.1\ManageEmployees.dll
+C:\Users\Familia\Documents\GitHub\Angular2CRUD\NetCoreAPI\src\ManageEmployees\obj\Debug\netcoreapp1.1\ManageEmployees.pdb
